@@ -28,7 +28,6 @@ A structured, exam-focused study resource for the **AWS Certified Cloud Practiti
 ### Core docs
 - [Exam Domains and Repo Mapping](docs/exam-domains.md)
 - [Study Plan (7/14/21 Days)](docs/study-plan.md)
-- [Legacy Exam Overview](docs/exam-overview.md)
 
 ### Service cheat sheets
 - [Compute (includes EC2 instance families)](docs/service-cheat-sheets/compute.md)
